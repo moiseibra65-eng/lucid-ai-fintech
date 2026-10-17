@@ -1,0 +1,8 @@
+{
+  "name": "LUCID — AI Financial Scenario Lab",
+  "description": "Simulateur interactif de trésorerie et d'arbitrage financier avec calculs déterministes et copilote IA intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
